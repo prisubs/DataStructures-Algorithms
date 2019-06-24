@@ -1,7 +1,3 @@
 # DataStructures-Algorithms
 
-<object data="final-cheatsheet.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="final-cheatsheet.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="final-cheatsheet.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+Original guide can be found [here](https://paper.dropbox.com/doc/Data-Structures-and-Algorithms--AfoNNWGwOOCqRwwiQnaGJ3u1Ag-kO8z4OGj5QXjSa1pG4ppg). This is all based on [Data Structures](https://www2.eecs.berkeley.edu/Courses/CS61B/), a class taught at UC Berkeley.
